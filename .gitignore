@@ -2,3 +2,12 @@
 .DS_Store
 /3_Feedforward_PyTorch/temp
 4_Convolutional/mnist.npz
+*.meta
+4_Convolutional/data/cifar-10-batches-py/data_batch_1
+*.gz
+*.html
+4_Convolutional/data/cifar-10-batches-py/test_batch
+4_Convolutional/data/cifar-10-batches-py/data_batch_5
+4_Convolutional/data/cifar-10-batches-py/data_batch_4
+4_Convolutional/data/cifar-10-batches-py/data_batch_3
+4_Convolutional/data/cifar-10-batches-py/data_batch_2
