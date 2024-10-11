@@ -11,3 +11,7 @@
 4_Convolutional/data/cifar-10-batches-py/data_batch_4
 4_Convolutional/data/cifar-10-batches-py/data_batch_3
 4_Convolutional/data/cifar-10-batches-py/data_batch_2
+/6_Mini_Project/images
+6_Mini_Project/__pycache__/data_utils.cpython-311.pyc
+*.csv
+6_Mini_Project/data.pickle
