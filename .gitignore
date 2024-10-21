@@ -15,3 +15,5 @@
 6_Mini_Project/__pycache__/data_utils.cpython-311.pyc
 *.csv
 6_Mini_Project/data.pickle
+/7_Unsupervised/MNIST/raw
+/7_Unsupervised/__pycache__
